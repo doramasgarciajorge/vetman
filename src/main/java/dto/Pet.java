@@ -2,6 +2,18 @@ package dto;
 
 import java.util.Date;
 
+/*
+------------------------------------------------------------
+> VETMAN
+
+- AUTHOR:     Doramas García Jorge
+- EMAIL:      doramas.dev@pm.me
+- GITHUB:     https://github.com/doramasgarciajorge
+- REPOSITORY: https://github.com/doramasgarciajorge/vetman
+------------------------------------------------------------
+*/
+
+
 public class Pet {
 
     private int numero;
